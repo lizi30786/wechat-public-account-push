@@ -58,16 +58,16 @@ export const config = {
       ]
     },
     {
-      name: "老婆1",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
+      name: "李子",
+      id: "oQ_S75wgAz6CfboIFVHtDIAsck0Q",
+      useTemplateId: "jkLJv_qPepQS-YtaIibNi5nipg4K5ynb2I8nmv0hEQk",
+      province: "重庆",
+      city: "重庆",
+     // horoscopeDate: '',
+     // horoscopeDateType: '',
+      //openUrl: "https://wangxinleo.cn",
+     // festivals: [],
+     // customizedDateList: []
     },
     {
       name: "老婆2",
