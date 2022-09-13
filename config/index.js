@@ -42,7 +42,7 @@ export const config = {
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {"type": "*生日", "name": "小侄女", "year": "2014", "date": "05-01"},
-        {"type": "节日", "name": "结婚纪念日", "year": "2001", "date": "09-03"},
+        {"type": "节日", "name": "冬至节", "year": "2001", "date": "12-21"},
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {"type": "生日", "name": "勺子", "year": "2021", "date": "02-20"},
         {"type": "节日", "name": "新的一年", "year": "2021", "date": "01-01"},
@@ -113,7 +113,7 @@ export const config = {
   FESTIVALS: [
     // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
     {"type": "*生日", "name": "老婆", "year": "1996", "date": "09-09", isShowAge: true},
-    //{"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "09-03"},
+    //{"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "12-21"},
     // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
     {"type": "生日", "name": "李四", "year": "1996", "date": "09-31", isShowAge: true},
     {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "09-01"},
@@ -136,9 +136,9 @@ export const config = {
     * */
   CUSTOMIZED_DATE_LIST: [
     // 在一起的日子
-    {"keyword": "love_day", date: "2022-05-05"},
+    {"keyword": "love_day", date: "2022-12-23"},
     // 结婚纪念日
-   // {"keyword": "marry_day", date: "2022-05-05"},
+  {"keyword": "marry_day", date: "2022-12-23"},
     // 退伍日
     {"keyword": "ex_day", date: "2022-09-10"},
     // 你可以不断按格式往下增加
