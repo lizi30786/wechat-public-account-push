@@ -25,7 +25,7 @@ export const config = {
       // 想要发送的人的名字
       name: "勺子",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "oQ_S75wgAz6CfboIFVHtDIAsck0Q",
+      id: "oQ_S7576Si6CoabQ_NfECLQPnFV8",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "jkLJv_qPepQS-YtaIibNi5nipg4K5ynb2I8nmv0hEQk",
       // 所在省份
@@ -42,7 +42,7 @@ export const config = {
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {"type": "*生日", "name": "小侄女", "year": "1996", "date": "05-01"},
-        {"type": "节日", "name": "冬至节", "year": "2020", "date": "12-21"},
+        {"type": "节日", "name": "中元节", "year": "2020", "date": "08-30"},
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {"type": "生日", "name": "勺子", "year": "1996", "date": "02-20"},
         {"type": "节日", "name": "新的一年", "year": "2021", "date": "01-01"},
