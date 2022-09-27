@@ -1,4 +1,4 @@
-元素运算。观察发现export const config = {
+export const config = {
   /**
    * 公众号配置
    */
